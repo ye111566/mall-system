@@ -1,1 +1,1 @@
-"def calc_coupon(): return 'Bob硬编码的折扣'" 
+"def calc_coupon(): return 'Alice的二次修改'" 
